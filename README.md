@@ -1,6 +1,6 @@
 # cutoverconfigsuite
 
-`cutoverconfigsuite` is a PowerApp suite backed by VBA and macro-enabled Excel tooling for UI-friendly cutover configuration and mapping.
+`cutoverconfigsuite` is a Power Apps suite backed by VBA and macro-enabled Excel tooling for UI-friendly cutover configuration and mapping.
 
 ## Overview
 
@@ -27,8 +27,8 @@ The repository will hold assets for:
 
 - workbook-driven configuration capture
 - VBA/macros that compile workbook inputs into reusable mapping outputs
-- PowerApp-facing configuration and mapping artifacts
+- Power Apps-facing configuration and mapping artifacts
 
 ## Status
 
-This repository currently establishes the project definition and scope for the PowerApp, VBA, and Excel macro-based configuration suite.
+This repository currently establishes the project definition and scope for the Power Apps, VBA, and Excel macro-based configuration suite.
